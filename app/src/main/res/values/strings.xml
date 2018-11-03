@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Photo Weather</string>
+    <string name="facebook_app_id">181043179494006</string>
+    <string name="fb_login_protocol_scheme">fb181043179494006</string>
+    <string name="image_captured">Image Captured</string>
+    <string name="capture_image_with_weather">Capture Image with Weather</string>
+
+</resources>
